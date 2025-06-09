@@ -1,0 +1,15 @@
+/Users/dsilvestri/Documents/personal/repos/design-patterns-solid/solid/02-open-closed/ocp-demo/bin/Debug/net9.0/ocp-demo
+/Users/dsilvestri/Documents/personal/repos/design-patterns-solid/solid/02-open-closed/ocp-demo/bin/Debug/net9.0/ocp-demo.deps.json
+/Users/dsilvestri/Documents/personal/repos/design-patterns-solid/solid/02-open-closed/ocp-demo/bin/Debug/net9.0/ocp-demo.runtimeconfig.json
+/Users/dsilvestri/Documents/personal/repos/design-patterns-solid/solid/02-open-closed/ocp-demo/bin/Debug/net9.0/ocp-demo.dll
+/Users/dsilvestri/Documents/personal/repos/design-patterns-solid/solid/02-open-closed/ocp-demo/bin/Debug/net9.0/ocp-demo.pdb
+/Users/dsilvestri/Documents/personal/repos/design-patterns-solid/solid/02-open-closed/ocp-demo/obj/Debug/net9.0/ocp-demo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dsilvestri/Documents/personal/repos/design-patterns-solid/solid/02-open-closed/ocp-demo/obj/Debug/net9.0/ocp-demo.AssemblyInfoInputs.cache
+/Users/dsilvestri/Documents/personal/repos/design-patterns-solid/solid/02-open-closed/ocp-demo/obj/Debug/net9.0/ocp-demo.AssemblyInfo.cs
+/Users/dsilvestri/Documents/personal/repos/design-patterns-solid/solid/02-open-closed/ocp-demo/obj/Debug/net9.0/ocp-demo.csproj.CoreCompileInputs.cache
+/Users/dsilvestri/Documents/personal/repos/design-patterns-solid/solid/02-open-closed/ocp-demo/obj/Debug/net9.0/ocp-demo.sourcelink.json
+/Users/dsilvestri/Documents/personal/repos/design-patterns-solid/solid/02-open-closed/ocp-demo/obj/Debug/net9.0/ocp-demo.dll
+/Users/dsilvestri/Documents/personal/repos/design-patterns-solid/solid/02-open-closed/ocp-demo/obj/Debug/net9.0/refint/ocp-demo.dll
+/Users/dsilvestri/Documents/personal/repos/design-patterns-solid/solid/02-open-closed/ocp-demo/obj/Debug/net9.0/ocp-demo.pdb
+/Users/dsilvestri/Documents/personal/repos/design-patterns-solid/solid/02-open-closed/ocp-demo/obj/Debug/net9.0/ocp-demo.genruntimeconfig.cache
+/Users/dsilvestri/Documents/personal/repos/design-patterns-solid/solid/02-open-closed/ocp-demo/obj/Debug/net9.0/ref/ocp-demo.dll

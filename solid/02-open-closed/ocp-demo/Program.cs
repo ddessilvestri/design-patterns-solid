@@ -1,15 +1,10 @@
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 
 // OCP: Software entities should be open for extension, but closed for modification.
 // Bad example
 
-// How to run demo
-// dotnet new console -o ocp-demo
-// cd ocp-demo
-// # Replace Program.cs content with ocp-csharp.cs
-// dotnet run
 
 public class ProductBad
 {
@@ -65,7 +60,7 @@ public class Product
 
 public interface ISpecification<T>
 {
-    bool isSatisfied(T item);
+    bool IsSatisfied(T item);
 }
 
 public class ColorSpecification : ISpecification<Product>
