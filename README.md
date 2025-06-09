@@ -78,3 +78,59 @@ Focus on communication between objects:
 1. Clone the repository:
 ```bash
 git clone git@github.com:your-username/design-patterns-solid.git
+
+
+## 🔁 Example: Strategy + OCP + DIP in C#
+
+📂 File: `/examples/strategy-ocp-dip.cs`
+
+This example demonstrates how to apply three key software design principles and patterns together:
+
+---
+
+### 🧠 1. Strategy Pattern
+
+**Definition**: Define a family of algorithms, encapsulate each one, and make them interchangeable at runtime.
+
+In this example:
+
+- `IPaymentStrategy` defines a common interface.
+- `CreditCardPayment`, `CashPayment`, and `CryptoPayment` implement the strategy.
+- `PaymentService` uses a strategy without knowing which one.
+
+✅ This allows changing the behavior (payment method) without modifying the service logic.
+
+---
+
+### 🧠 2. Open/Closed Principle (OCP)
+
+**Definition**: Software should be open for extension but closed for modification.
+
+In this example:
+
+- You can add new payment strategies like `PayPalPayment` without changing `PaymentService`.
+- No need to edit existing code to support new behavior.
+
+✅ This supports safe and scalable code extension.
+
+---
+
+### 🧠 3. Dependency Inversion Principle (DIP)
+
+**Definition**: High-level modules should not depend on low-level modules. Both should depend on abstractions.
+
+In this example:
+
+- `PaymentService` (high-level) depends on `IPaymentStrategy` (abstraction).
+- `CreditCardPayment`, `CashPayment`, etc., also depend on the same abstraction.
+- `PaymentService` does **not** depend on concrete implementations.
+
+✅ This decouples components, improves flexibility, and allows for easier testing.
+
+---
+
+### 🧪 Sample usage in `Main()`:
+
+```csharp
+var payment = new PaymentService(new CryptoPayment());
+payment.ProcessPayment(150.00m);
