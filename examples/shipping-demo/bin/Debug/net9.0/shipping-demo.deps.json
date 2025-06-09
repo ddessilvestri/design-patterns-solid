@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "shipping-demo/1.0.0": {
+        "runtime": {
+          "shipping-demo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "shipping-demo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -63,6 +63,7 @@ public class Product
     }
 }
 
+// generic interface
 public interface ISpecification<T>
 {
     bool isSatisfied(T item);

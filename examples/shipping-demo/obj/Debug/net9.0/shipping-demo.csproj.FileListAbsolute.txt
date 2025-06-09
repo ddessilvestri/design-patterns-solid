@@ -1,0 +1,15 @@
+/Users/dsilvestri/Documents/personal/repos/design-patterns-solid/examples/shipping-demo/obj/Debug/net9.0/shipping-demo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dsilvestri/Documents/personal/repos/design-patterns-solid/examples/shipping-demo/obj/Debug/net9.0/shipping-demo.AssemblyInfoInputs.cache
+/Users/dsilvestri/Documents/personal/repos/design-patterns-solid/examples/shipping-demo/obj/Debug/net9.0/shipping-demo.AssemblyInfo.cs
+/Users/dsilvestri/Documents/personal/repos/design-patterns-solid/examples/shipping-demo/obj/Debug/net9.0/shipping-demo.csproj.CoreCompileInputs.cache
+/Users/dsilvestri/Documents/personal/repos/design-patterns-solid/examples/shipping-demo/obj/Debug/net9.0/shipping-demo.sourcelink.json
+/Users/dsilvestri/Documents/personal/repos/design-patterns-solid/examples/shipping-demo/bin/Debug/net9.0/shipping-demo
+/Users/dsilvestri/Documents/personal/repos/design-patterns-solid/examples/shipping-demo/bin/Debug/net9.0/shipping-demo.deps.json
+/Users/dsilvestri/Documents/personal/repos/design-patterns-solid/examples/shipping-demo/bin/Debug/net9.0/shipping-demo.runtimeconfig.json
+/Users/dsilvestri/Documents/personal/repos/design-patterns-solid/examples/shipping-demo/bin/Debug/net9.0/shipping-demo.dll
+/Users/dsilvestri/Documents/personal/repos/design-patterns-solid/examples/shipping-demo/bin/Debug/net9.0/shipping-demo.pdb
+/Users/dsilvestri/Documents/personal/repos/design-patterns-solid/examples/shipping-demo/obj/Debug/net9.0/shipping-demo.dll
+/Users/dsilvestri/Documents/personal/repos/design-patterns-solid/examples/shipping-demo/obj/Debug/net9.0/refint/shipping-demo.dll
+/Users/dsilvestri/Documents/personal/repos/design-patterns-solid/examples/shipping-demo/obj/Debug/net9.0/shipping-demo.pdb
+/Users/dsilvestri/Documents/personal/repos/design-patterns-solid/examples/shipping-demo/obj/Debug/net9.0/shipping-demo.genruntimeconfig.cache
+/Users/dsilvestri/Documents/personal/repos/design-patterns-solid/examples/shipping-demo/obj/Debug/net9.0/ref/shipping-demo.dll

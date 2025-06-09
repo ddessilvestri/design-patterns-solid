@@ -1,0 +1,32 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "solid", "solid", "{4AA6742E-A330-F0B4-D3B3-011E2B07EA2A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02-open-closed", "02-open-closed", "{CC24278B-76B2-113E-8635-3D5DCDD536C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ocp-demo", "solid\02-open-closed\ocp-demo\ocp-demo.csproj", "{79CAD2AB-AF45-D917-115B-6F98ADD16BF8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79CAD2AB-AF45-D917-115B-6F98ADD16BF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79CAD2AB-AF45-D917-115B-6F98ADD16BF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79CAD2AB-AF45-D917-115B-6F98ADD16BF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79CAD2AB-AF45-D917-115B-6F98ADD16BF8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{CC24278B-76B2-113E-8635-3D5DCDD536C6} = {4AA6742E-A330-F0B4-D3B3-011E2B07EA2A}
+		{79CAD2AB-AF45-D917-115B-6F98ADD16BF8} = {CC24278B-76B2-113E-8635-3D5DCDD536C6}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9AB9230F-4F4E-486D-BB69-6C6041C06009}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+/Users/dsilvestri/Documents/personal/repos/design-patterns-solid/examples/payments-demo/obj/Debug/net9.0/payments-demo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dsilvestri/Documents/personal/repos/design-patterns-solid/examples/payments-demo/obj/Debug/net9.0/payments-demo.AssemblyInfoInputs.cache
+/Users/dsilvestri/Documents/personal/repos/design-patterns-solid/examples/payments-demo/obj/Debug/net9.0/payments-demo.AssemblyInfo.cs
+/Users/dsilvestri/Documents/personal/repos/design-patterns-solid/examples/payments-demo/obj/Debug/net9.0/payments-demo.csproj.CoreCompileInputs.cache
+/Users/dsilvestri/Documents/personal/repos/design-patterns-solid/examples/payments-demo/obj/Debug/net9.0/payments-demo.sourcelink.json
+/Users/dsilvestri/Documents/personal/repos/design-patterns-solid/examples/payments-demo/bin/Debug/net9.0/payments-demo
+/Users/dsilvestri/Documents/personal/repos/design-patterns-solid/examples/payments-demo/bin/Debug/net9.0/payments-demo.deps.json
+/Users/dsilvestri/Documents/personal/repos/design-patterns-solid/examples/payments-demo/bin/Debug/net9.0/payments-demo.runtimeconfig.json
+/Users/dsilvestri/Documents/personal/repos/design-patterns-solid/examples/payments-demo/bin/Debug/net9.0/payments-demo.dll
+/Users/dsilvestri/Documents/personal/repos/design-patterns-solid/examples/payments-demo/bin/Debug/net9.0/payments-demo.pdb
+/Users/dsilvestri/Documents/personal/repos/design-patterns-solid/examples/payments-demo/obj/Debug/net9.0/payments-demo.dll
+/Users/dsilvestri/Documents/personal/repos/design-patterns-solid/examples/payments-demo/obj/Debug/net9.0/refint/payments-demo.dll
+/Users/dsilvestri/Documents/personal/repos/design-patterns-solid/examples/payments-demo/obj/Debug/net9.0/payments-demo.pdb
+/Users/dsilvestri/Documents/personal/repos/design-patterns-solid/examples/payments-demo/obj/Debug/net9.0/payments-demo.genruntimeconfig.cache
+/Users/dsilvestri/Documents/personal/repos/design-patterns-solid/examples/payments-demo/obj/Debug/net9.0/ref/payments-demo.dll
